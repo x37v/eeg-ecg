@@ -35,7 +35,7 @@ Schematic/PCB use KiCad.
 
 ### Semi:
 
-* 1 **AD620**                    U1
+* 1 [**AD620AN**](http://www.digikey.com/product-detail/en/AD620ANZ/AD620ANZ-ND/750967)                    U1
 * 1 **TL072**                    U2
 * 1 **TL074**                    U3
 
